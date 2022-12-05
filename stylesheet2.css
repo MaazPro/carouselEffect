@@ -29,16 +29,16 @@
 }
 
 .image:nth-child(7){
-    background-image: url(images/MP.jpg);
+    background-image: url(images/P7.jpg);
     transform: rotateY(240deg) translateZ(430px);
 }
 
 .image:nth-child(8){
-    background-image: url(images/MP.jpg);
+    background-image: url(images/P8.jpg);
     transform: rotateY(280deg) translateZ(430px);
 }
 
 .image:nth-child(9){
-    background-image: url(images/MP.jpg);
+    background-image: url(images/P9.jpg);
     transform: rotateY(320deg) translateZ(430px);
 }
