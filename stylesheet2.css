@@ -42,3 +42,11 @@
     background-image: url(images/P9.jpg);
     transform: rotateY(320deg) translateZ(430px);
 }
+.image:nth-child(10){
+    background-image: url(images/P10.jpg);
+    transform: rotateY(360deg) translateZ(430px);
+}
+.image:nth-child(11){
+    background-image: url(images/P11.jpg);
+    transform: rotateY(400deg) translateZ(430px);
+}
